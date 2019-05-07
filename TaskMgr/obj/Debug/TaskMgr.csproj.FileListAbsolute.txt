@@ -1,0 +1,9 @@
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\bin\Debug\TaskMgr.exe
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\bin\Debug\TaskMgr.pdb
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.csprojAssemblyReference.cache
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.Form1.resources
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.Properties.Resources.resources
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.csproj.GenerateResource.cache
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.csproj.CoreCompileInputs.cache
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.exe
+C:\Users\DZKD_B705\Desktop\TaskMgr\TaskMgr\obj\Debug\TaskMgr.pdb
